@@ -8,3 +8,8 @@ body {
 body {
     border-style: double;
 }
+body {
+    outline-style: solid;
+    outline-width: medium;
+    outline-color: #fc3e6a; 
+}
