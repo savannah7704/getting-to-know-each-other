@@ -1,4 +1,5 @@
-# Hello World Azure Static Website Template
+# Getting to Know Each other by Savannah Stumpf
+email: savannahrstumpf@lewisu.edu
 <<<<<<< HEAD
 Template by Eric J Pogue
 =======
